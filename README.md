@@ -15,4 +15,7 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!. Just add me on Discord: 2Lost4Discord#0001</b> 😊</em>
 
 ## Currently listening to
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=x0qw2ktvf9dhl53iv8jbwelky&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+Because I like music and Spotify, I'll add this. Here you can find my [Playlist](https://open.spotify.com/playlist/7g0CESBrWTNMpqvEQl5tp0?si=2f729c214fd24688)
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=x0qw2ktvf9dhl53iv8jbwelky&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
