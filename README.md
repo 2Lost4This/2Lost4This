@@ -18,4 +18,4 @@
 Because I like music and Spotify, I'll add this. Here you can find my [Playlist](https://open.spotify.com/playlist/7g0CESBrWTNMpqvEQl5tp0?si=2f729c214fd24688)
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=x0qw2ktvf9dhl53iv8jbwelky&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=x0qw2ktvf9dhl53iv8jbwelky&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/2Lost4This/2Lost4This)
