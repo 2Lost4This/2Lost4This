@@ -23,3 +23,6 @@ Because I like music and Spotify, I'll add this. Here you can find my [Playlist]
 ## Github Stats
 ![Lostis GitHub stats](https://github-readme-stats.vercel.app/api?username=2Lost4This&show_icons=true&theme=radical)
 
+## My contribution snake
+ 
+![​github contribution grid snake animation​](https://raw.githubusercontent.com/2Lost4This/2Lost4This/blob/output/github-contribution-grid-snake.svg)
