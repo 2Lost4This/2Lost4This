@@ -22,6 +22,7 @@ Because I like music and Spotify, I'll add this. Here you can find my [Playlist]
 
 ## Github Stats
 ![Lostis GitHub stats](https://github-readme-stats.vercel.app/api?username=2Lost4This&show_icons=true&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2Lost4This&layout=compact)](https://discord.gg/4Q87pfTWqC)
 
 
  
