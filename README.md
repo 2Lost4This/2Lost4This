@@ -25,4 +25,5 @@ Because I like music and Spotify, I'll add this. Here you can find my [Playlist]
 
 ## My contribution snake
  
-![​github contribution grid snake](https://github.com/2Lost4This/blob/output/github-contribution-grid-snake.svg)
+![​github contribution grid snake](https://github.com/2Lost4This/2Lost4This/blob/output/github-contribution-grid-snake.svg)
+
