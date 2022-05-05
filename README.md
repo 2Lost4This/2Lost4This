@@ -1,7 +1,5 @@
 # Hello World 👋
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
-
 ### I'm 2Lost4This
 
 - 🔭 Student from Germany
@@ -11,17 +9,13 @@
 - 🚴 I love riding my MTB and skateboard 
 - 🗣️ I like to talk to people on my [Discord Server](https://discord.gg/4Q87pfTWqC)
 
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!. Just add me on Discord: 2Lost4Discord#0001</b> 😊</em>
-
-## Currently listening to
-Because I like music and Spotify, I'll add this. Here you can find my [Playlist](https://open.spotify.com/playlist/7g0CESBrWTNMpqvEQl5tp0?si=2f729c214fd24688)
-
+**If you want to support my projects, I would be happy about a star, [but also you can support me here](https://www.buymeacoffee.com/2lost4this)**
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=x0qw2ktvf9dhl53iv8jbwelky&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/2Lost4This/2Lost4This)
 
 ## Github Stats
 ![Lostis GitHub stats](https://github-readme-stats.vercel.app/api?username=2Lost4This&show_icons=true&theme=radical)
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2Lost4This&layout=compact)](https://discord.gg/4Q87pfTWqC)
 
 
