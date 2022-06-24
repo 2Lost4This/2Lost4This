@@ -2,7 +2,7 @@
 
 ### I'm 2Lost4This
 
-- 🔭 Student from Germany
+- 🔭 Random from Germany
 - 🌱 Currently working on some small Projects
 - 💬 Ask me about Discord.js and other Discord Stuff
 - :star: You may like [Discord Custom RPC](https://github.com/2Lost4This/Discord-Custom-RPC)
